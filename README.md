@@ -6,3 +6,12 @@ This app integrates Retrofit and LiveData to pull the latest news data from a RE
 I designed the Instagram Flavor News app based on Google Component Architectural MVVM Pattern, and implemented the bottom bar & page navigation using JetPack navigation component. 
 In the mean time, utilized 3rd party CardStackView(RecyclerView) to support swipe gestures for liking/disliking the news. 
 Furthermore, I built the Room Database with LiveData & ViewModel to support local cache and offline model.
+
+# Technical Stack
+IDE: Android Studio
+
+Language: Java, Kotlin, XML
+
+Database: Room
+
+Libraries: Retrofit, JetPack navigation, RecyclerView, Picasso(image library)
